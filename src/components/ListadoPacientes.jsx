@@ -17,7 +17,7 @@ function ListadoPacientes({ pacientes, setPaciente, eliminarPaciente }) {
         ) : (
             <>
                     
-              <h2 className="font-black text-center text-3xl">prueba Pacientes</h2>
+              <h2 className="font-black text-center text-3xl">Listado Pacientes</h2>
               <p className=" text-lg text-center mt-5 mb-8">
                   Administra tus
                   <span className=" font-bold text-indigo-600"> Pacientes y Citas</span>
